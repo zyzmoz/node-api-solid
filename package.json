@@ -1,0 +1,24 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Daniel Cunha",
+  "license": "MIT",
+  "devDependencies": {
+    "@swc/core": "^1.2.212",
+    "@swc/jest": "^0.2.21",
+    "@types/jest": "^28.1.4",
+    "@types/node": "^18.0.3",
+    "jest": "^28.1.2",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "uuidv4": "^6.2.13"
+  }
+}
